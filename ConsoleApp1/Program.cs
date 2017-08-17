@@ -14,6 +14,7 @@ namespace ConsoleApp1
             int number = 1;
             Console.Read();
             //github: end of this read
+            //redo again
         }
     }
 }
