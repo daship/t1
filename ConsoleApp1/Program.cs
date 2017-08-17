@@ -13,7 +13,7 @@ namespace ConsoleApp1
             //say something
             int number = 1;
             Console.Read();
-            
+            // not end of this read
         }
     }
 }
