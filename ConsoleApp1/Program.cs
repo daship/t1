@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //say something
-            int a = 1;
+            int number = 1;
             Console.Read();
             
         }
