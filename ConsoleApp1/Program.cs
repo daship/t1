@@ -13,9 +13,7 @@ namespace ConsoleApp1
             //say something
             int number = 1;
             Console.Read();
-           //remove all comment
-           //check if this is a line to be added 
-            //re add comment
+            //clean all on github
         }
     }
 }
