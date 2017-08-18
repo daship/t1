@@ -14,6 +14,7 @@ namespace ConsoleApp1
             int number = 1;
             Console.Read();
            //remove all comment
+            //re add comment
         }
     }
 }
