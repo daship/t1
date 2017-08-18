@@ -13,6 +13,7 @@ namespace ConsoleApp1
             //say something
             int number = 1;
             Console.Read();
+            string s = "";
             //githubggggggg
         }
     }
