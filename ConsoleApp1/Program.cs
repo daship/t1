@@ -15,6 +15,7 @@ namespace ConsoleApp1
             Console.Read();
             string s = "";
             //githubggggggg
+            //try to ignore app.config modified
         }
     }
 }
