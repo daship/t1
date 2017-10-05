@@ -15,13 +15,20 @@ namespace ConsoleApp1
 
             int count = Convert.ToInt32(arr[1]);
 
-            Console.WriteLine(count + add(count, count));
+            Console.WriteLine(add(count, count) + multify(count, 2));
 
+            Console.Read();
         }
 
         public static int add(int a, int b)
         {
             return a + b;
+        }
+
+
+        public static int multify(int a, int n )
+        {
+            return a * n;
         }
     }
 }
