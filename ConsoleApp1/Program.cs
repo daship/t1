@@ -10,12 +10,13 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //say something
-            int number = 1;
-            Console.Read();
-            string s = "";
-            //githubggggggg
-            //try to ignore app.config modified
+            string input = "ace_lee_17";
+            string[] arr = input.Split('_');
+
+            int count = Convert.ToInt32(arr[1]);
+
+            Console.WriteLine(count);
+
         }
     }
 }
