@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string input = "ace_lee_17";
+            string input = "ace_17";
             string[] arr = input.Split('_');
 
             int count = Convert.ToInt32(arr[1]);
