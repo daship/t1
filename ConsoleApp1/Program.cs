@@ -15,7 +15,7 @@ namespace ConsoleApp1
 
             int count = Convert.ToInt32(arr[1]);
 
-            Console.WriteLine(count);
+            Console.WriteLine(count + add(count, count));
 
         }
 
