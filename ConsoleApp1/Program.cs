@@ -22,9 +22,15 @@ namespace ConsoleApp1
 
         public static int add(int a, int b)
         {
-            return a + b;
+            return (IsOdd(a) ? a : 0) + (IsOdd(b) ? a : 0);
         }
-        
+        public static bool IsOdd(int a)
+        {
+            if (a % 2 == 0)
+                return true;
+            else
+                return false;
+        }
 
         public static int multify(int a, int n )
         {
