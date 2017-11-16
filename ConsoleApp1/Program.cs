@@ -18,5 +18,11 @@ namespace ConsoleApp1
         {
             return a - b;
         }
+        static int add(int a, int b)
+        {
+            return a + b;
+        }
+        
+
     }
 }
