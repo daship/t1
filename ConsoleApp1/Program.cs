@@ -13,7 +13,6 @@ namespace ConsoleApp1
             Console.WriteLine("init");
             Console.WriteLine(add(1, 2));
             Console.WriteLine(minus(1, 2));
-            Console.WriteLine(multiply(1, 2));
             Console.WriteLine(devide(8, 2));
             Console.Read();
         }
@@ -25,11 +24,7 @@ namespace ConsoleApp1
         {
             return a + b;
         }
-        
-        static int multiply(int a, int b)
-        {
-            return a * b;
-        }
+       
         static int devide(int a, int b)
         {
             return a / b;
