@@ -1,0 +1,7 @@
+﻿{
+  "modules": [
+    {
+      "type": "consoleService.cls.BMWEngine, consoleServices"
+    }
+  ]
+}
