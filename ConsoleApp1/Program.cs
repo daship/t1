@@ -11,7 +11,13 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.Write("init");
+            Console.WriteLine(add(1, 2));
             Console.Read();
+        }
+
+        static int add(int a, int b)
+        {
+            return a + b;
         }
         
     }
