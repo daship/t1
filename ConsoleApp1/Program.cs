@@ -13,6 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("init");
             Console.WriteLine(add(1, 2));
             Console.WriteLine(minus(1, 2));
+            Console.WriteLine(multiply(1, 2));
             Console.Read();
         }
         static int minus(int a, int b)
@@ -24,6 +25,9 @@ namespace ConsoleApp1
             return a + b;
         }
         
-
+        static int multiply(int a, int b)
+        {
+            return a * b;
+        }
     }
 }
