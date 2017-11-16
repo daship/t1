@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.Write("init");
+            Console.WriteLine(minus(1, 2));
             Console.Read();
         }
         static int minus(int a, int b)
