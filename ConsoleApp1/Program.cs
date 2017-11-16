@@ -13,6 +13,9 @@ namespace ConsoleApp1
             Console.Write("init");
             Console.Read();
         }
-        
+        static int minus(int a, int b)
+        {
+            return a - b;
+        }
     }
 }
