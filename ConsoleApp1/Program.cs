@@ -15,6 +15,8 @@ namespace ConsoleApp1
             Console.WriteLine(minus(1, 2));
             Console.WriteLine(multiply(1, 2));
             Console.WriteLine(devide(8, 2));
+            //try to do something
+            Console.WriteLine(devide(8, 3));
             Console.Read();
         }
         static int minus(int a, int b)
