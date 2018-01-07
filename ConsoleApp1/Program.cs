@@ -16,6 +16,8 @@ namespace ConsoleApp1
             Console.WriteLine(multiply(1, 2));
             Console.WriteLine(devide(8, 2));
             Console.Read();
+
+            //read config here
         }
         static int minus(int a, int b)
         {
