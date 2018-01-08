@@ -19,7 +19,7 @@ namespace ConsoleApp1
             //config add but i don't want to add in conifg
             //master branch
             //ipphone funciton here
-
+            //windows phone
         }
         static int minus(int a, int b)
         {
