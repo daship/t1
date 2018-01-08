@@ -18,6 +18,8 @@ namespace ConsoleApp1
             Console.Read();
             //config add but i don't want to add in conifg
             //master branch
+            //ipphone funciton here
+
         }
         static int minus(int a, int b)
         {
