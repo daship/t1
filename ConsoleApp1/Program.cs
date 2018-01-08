@@ -20,6 +20,7 @@ namespace ConsoleApp1
             //master branch
             //ipphone funciton here
             //windows phone
+            //andorid phone
         }
         static int minus(int a, int b)
         {
